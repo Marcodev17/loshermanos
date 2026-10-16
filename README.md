@@ -1,26 +1,23 @@
-# Los Hermanos Tech
+Los Hermanos Tech
 
-Landing page institucional estática para a Los Hermanos Tech. Não requer banco de dados ou dependências.
+Site institucional da Los Hermanos Tech, empresa de manutenção de computadores e notebooks em Santo Estêvão – BA.
 
-## Executar localmente
+O projeto apresenta os serviços da empresa, sua identidade visual e canais de contato, com foco em uma experiência moderna, responsiva e otimizada para smartphones.
 
-Com Python instalado, na pasta do projeto:
+Tecnologias
 
-```bash
-python -m http.server 8000
-```
+- HTML5
+- CSS3
+- JavaScript
 
-Abra `http://localhost:8000` no navegador. Também é possível abrir `index.html` diretamente.
+Funcionalidades
 
-## Publicar na Vercel
+- Apresentação dos serviços.
+- Galeria de trabalhos.
+- Contato direto pelo WhatsApp.
+- Integração com Instagram.
+- Animações suaves e navegação responsiva.
 
-Importe o repositório na Vercel e configure o projeto como site estático, sem build command e com a raiz do projeto como diretório de saída (`.`). Ou instale a CLI e execute `vercel` nesta pasta.
+Objetivo
 
-## Conteúdo a confirmar antes de publicar
-
-- Substituir os espaços reservados da galeria por fotos reais autorizadas da equipe.
-- Confirmar a lista de serviços, inclusive backup/restauração, e a forma de atendimento.
-- Confirmar endereço, horários e modalidades de atendimento, se quiser exibi-los.
-- Adicionar URL pública para canonical/sitemap e imagem social Open Graph quando o domínio estiver definido.
-
-Os valores, garantias, prazos, avaliações e certificações não são afirmados pelo site. O formulário prepara uma mensagem para o WhatsApp e não envia dados a um servidor.
+Fortalecer a presença digital da Los Hermanos Tech e facilitar o contato com novos clientes.
